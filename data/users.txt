@@ -1,0 +1,9 @@
+STUDENT|F001|Ali Raza|ali@campus.edu|0301-0000001
+STUDENT|F002|Sara Malik|sara@campus.edu|0301-0000002
+STUDENT|F003|Hamza Iqbal|hamza@campus.edu|0301-0000003
+STUDENT|F004|Zainab Noor|zainab@campus.edu|0301-0000004
+STUDENT|F005|Omar Farooq|omar@campus.edu|0301-0000005
+PERMANENT|T001|Dr. Ayesha Khan|ayesha@campus.edu|0300-1111111
+PERMANENT|T002|Dr. Bilal Ahmed|bilal@campus.edu|0300-2222222
+VISITING|T003|Mr. Usman Tariq|usman@campus.edu|0300-3333333
+ADMIN|A001|Ms. Hina Shah|hina@campus.edu|0302-0000001

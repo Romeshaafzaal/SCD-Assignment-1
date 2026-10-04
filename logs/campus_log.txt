@@ -1,0 +1,33 @@
+[2026-10-04T17:14:26.062913] Instructor T001 assigned to section S1
+[2026-10-04T17:14:26.069420500] Instructor T001 assigned to section S4
+[2026-10-04T17:14:26.070417] Instructor T002 assigned to section S2
+[2026-10-04T17:14:26.071414400] Instructor T003 assigned to section S3
+[2026-10-04T17:14:26.093356100] Student F001 enrolled in section S1
+[2026-10-04T17:14:26.094351500] Student F001 registered for section S1
+[2026-10-04T17:14:26.095349800] Student F002 enrolled in section S1
+[2026-10-04T17:14:26.096346] Student F002 registered for section S1
+[2026-10-04T17:14:26.098341900] Student F003 enrolled in section S1
+[2026-10-04T17:14:26.099338600] Student F003 registered for section S1
+[2026-10-04T17:14:26.102330800] Student F002 enrolled in section S3
+[2026-10-04T17:14:26.104326700] Student F002 registered for section S3
+[2026-10-04T17:14:26.105323900] Student F004 enrolled in section S3
+[2026-10-04T17:14:26.106322800] Student F004 registered for section S3
+[2026-10-04T17:14:26.107319400] Student F005 enrolled in section S3
+[2026-10-04T17:14:26.108317600] Student F005 registered for section S3
+[2026-10-04T17:14:26.109313300] Student F001 enrolled in section S4
+[2026-10-04T17:14:26.110310800] Student F001 registered for section S4
+[2026-10-04T17:14:26.111306800] Student F003 enrolled in section S4
+[2026-10-04T17:14:26.112306] Student F003 registered for section S4
+[2026-10-04T17:14:26.114301] TA assigned to section S1
+[2026-10-04T17:14:26.115297200] Student F005 assigned as TA for section S1
+[2026-10-04T17:14:26.116294900] TA assigned to section S4
+[2026-10-04T17:14:26.117292200] Student F004 assigned as TA for section S4
+[2026-10-04T17:14:26.133248100] No saved academic data found - sample data created and saved to the data folder
+[2026-10-04T17:14:26.135243600] Workflow data loaded from data (assignments, submissions, requests, FYP groups)
+[2026-10-04T17:20:52.787057900] ERROR [studentMenu]: Section clashes with existing timetable
+[2026-10-04T17:21:23.297182200] ERROR [studentMenu]: Conflicting section and requested section cannot be the same
+[2026-10-04T17:22:16.201045800] Attendance marked for student F001 in section S4 as PRESENT
+[2026-10-04T17:22:38.954108500] Attendance marked for student F003 in section S4 as ABSENT
+[2026-10-04T17:23:28.900575100] Attendance marked for student F001 in section S1 as PRESENT
+[2026-10-04T17:23:30.330917700] Attendance marked for student F002 in section S1 as ABSENT
+[2026-10-04T17:23:33.439822600] Attendance marked for student F003 in section S1 as LATE

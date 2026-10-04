@@ -1,0 +1,2 @@
+[2026-10-04T14:00:18.292233300] Academic data loaded from data: 4 courses, 4 sections, 5 students
+[2026-10-04T14:00:18.311254300] Workflow data loaded from data (assignments, submissions, requests, FYP groups)
